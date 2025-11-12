@@ -1,0 +1,16 @@
+h1 {
+    color:black;
+    text-align:center;
+}
+p{
+    color:blue;
+    font-size:20px;
+    text-align:center;
+}
+body{
+    background-color: bisque;
+    background-image:url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk5Ni0wMjUta3JvaXJnbWIuanBn.jpg);
+    background-size:100% 100%;
+    ;
+    ;
+}

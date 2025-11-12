@@ -19,11 +19,11 @@ h1 {
 }
 
 .product-box img {
-    width:100%
+    width:100%;
     height:auto;
     border-radius:5px;
 }
-product-box h2 {
+.product-box h2 {
     color:black;
     font-size:14px;
     margin:10px 0;
@@ -32,7 +32,7 @@ product-box h2 {
     color:red;
     font-weight: bold;
 }
-button{
+.add-to-cart{
     background-color:blue;
     color:white;
     padding:10px 20px;
